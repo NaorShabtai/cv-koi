@@ -8,7 +8,7 @@ qb-core > shared > items.lua
 
 ```lua
     -- KOI Food
-    ['fish'] 				 	 = {['name'] = 'fish', 			  	  		['label'] = 'Raw Fish', 				['weight'] = 2200, 		['type'] = 'item', 		['image'] = 'rawfish.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Ching Chang Raw fish'},
+['fish'] 				 	 = {['name'] = 'fish', 			  	  		['label'] = 'Raw Fish', 				['weight'] = 2200, 		['type'] = 'item', 		['image'] = 'rawfish.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Ching Chang Raw fish'},
 ['cuttedfish'] 				 	 = {['name'] = 'cuttedfish', 			  	  		['label'] = 'Cutted Fish', 				['weight'] = 2200, 		['type'] = 'item', 		['image'] = 'cuttedfish.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Ching Chang Cutted Fish'},
 ['salmon'] 				 	 = {['name'] = 'salmon', 			  	  		['label'] = 'Salmon', 				['weight'] = 2200, 		['type'] = 'item', 		['image'] = 'salmon.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Ching Chang salmon'},
 ['rawchicken'] 				 	 = {['name'] = 'rawchicken', 			  	  		['label'] = 'Raw Chicken', 				['weight'] = 2200, 		['type'] = 'item', 		['image'] = 'rawhicken.png', 			['unique'] = false, 	['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'Ching Chang Raw Chicken'},
