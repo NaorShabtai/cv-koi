@@ -34,7 +34,7 @@ qb-core > shared > items.lua
 ['coffee']                          = {['name'] = 'coffee',                            ['label'] = 'Coffee',                    ['weight'] = 200,          ['type'] = 'item',         ['image'] = 'coffee.png',                  ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = true,       ['combinable'] = nil,   ['description'] = 'Pump 4 Caffeine'},
 ['kurkakola']                       = {['name'] = 'kurkakola',                         ['label'] = 'Cola',                      ['weight'] = 500,          ['type'] = 'item',         ['image'] = 'cola.png',                    ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = true,       ['combinable'] = nil,   ['description'] = 'For all the thirsty out there'},
     -- KOI payment
-    ['paymenttablet']                          = {['name'] = 'paymenttablet',                            ['label'] = 'KOI Tablet',                    ['weight'] = 2000,         ['type'] = 'item',         ['image'] = 'tablet.png',                  ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = true,      ['combinable'] = nil,   ['description'] = 'Expensive tablet'},
+['paymenttablet']                          = {['name'] = 'paymenttablet',                            ['label'] = 'KOI Tablet',                    ['weight'] = 2000,         ['type'] = 'item',         ['image'] = 'tablet.png',                  ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = true,      ['combinable'] = nil,   ['description'] = 'Expensive tablet'},
 ```
 ```lua
     ["koi"] = {
