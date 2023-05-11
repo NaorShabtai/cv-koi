@@ -120,11 +120,17 @@ and put this:
 
 You need:
 qb-target [https://github.com/qbcore-framework/qb-target]
+
 qb-input  [https://github.com/qbcore-framework/qb-input]
+
 qb-core   [https://github.com/qbcore-framework/qb-core]
+
 qb-menu   [https://github.com/qbcore-framework/qb-menu]
+
 qb-management [https://github.com/qbcore-framework/qb-management]
+
 pd-safe   [https://github.com/VHall1/pd-safe]
+
 ps-dispatch [https://github.com/Project-Sloth/ps-dispatch]
 
 
