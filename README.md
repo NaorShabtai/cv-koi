@@ -36,6 +36,8 @@ qb-core > shared > items.lua
     -- KOI payment
 ['paymenttablet']                          = {['name'] = 'paymenttablet',                            ['label'] = 'KOI Tablet',                    ['weight'] = 2000,         ['type'] = 'item',         ['image'] = 'tablet.png',                  ['unique'] = false,         ['useable'] = true,     ['shouldClose'] = true,      ['combinable'] = nil,   ['description'] = 'Expensive tablet'},
 ```
+qb-core > shared > jobs.lua
+
 ```lua
     ["koi"] = {
         label = "KOI Restaurant",
