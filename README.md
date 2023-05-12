@@ -4,7 +4,7 @@ Thank you for downloading the script and supporting us
 
 Preview:
 
-https://cdn.discordapp.com/attachments/967121251959205898/1106697154908659822/image.png
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/026698e1-cb3c-4b75-8cdd-571851601032)
 
 
 The items you need to the script work 100%
