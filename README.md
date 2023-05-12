@@ -2,11 +2,6 @@ Hello this is naor form CoreVersion
 
 Thank you for downloading the script and supporting us 
 
-Preview:
-
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/026698e1-cb3c-4b75-8cdd-571851601032)
-
-
 The items you need to the script work 100%
 
 qb-core > shared > items.lua
@@ -140,14 +135,56 @@ pd-safe   [https://github.com/VHall1/pd-safe]
 
 ps-dispatch [https://github.com/Project-Sloth/ps-dispatch]
 
-
 The images in the folder "stuff you need for the script to work 100%"
 
 qb-inventory > html > images
 
 and put the images
 
-
 Have fun :()
 
 CoreVersion discord link: [https://discord.gg/VmPWhNWv8k]
+
+Preview:
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/026698e1-cb3c-4b75-8cdd-571851601032)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/eb70f00e-d93b-4c98-bb94-6d6eff7e34fd)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/62f27d36-433a-4796-b400-fce7a191380c)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/4d54afaf-015a-4db8-b3d8-2f91338191f3)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/1f0e21b7-ee01-4c1e-889b-3a4523cb62c6)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/c867295d-bdda-4e3e-b5ca-43e35263491f)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/9fde8477-c754-4da3-820c-ca0bc1f27886)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/0145f939-13e9-4646-ba44-41835529e910)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/ca1e0264-4cd6-4d93-bb71-f43aee6e4f6e)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/fb770ea0-4054-4639-8af6-65caba078e7b)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/2f3e5765-abb2-45ff-9e65-1e4c5903b2a7)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/fa5dc39c-3062-4e34-86dc-ea9383a235fb)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/68660986-e80b-4f55-9ebc-f06e4a8b2f35)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/e973386e-1a54-44dc-b59d-9281facab47a)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/1b56f433-e341-43d1-b067-eb43c65d9c07)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/0ce3c8ac-437b-4221-a87d-5b01e19c0d40)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/10211a05-7849-4163-b406-3eb61e586ee3)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/298af76f-508d-4073-b792-26569b28b2f2)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/03179633-629a-400e-a9fb-20e0f381537c)
+
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/c215a582-1120-4ce3-9d28-2a17e73484d3)
+
+
