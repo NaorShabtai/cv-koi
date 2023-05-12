@@ -187,7 +187,6 @@ Preview:
 
 ![image](https://github.com/CoreVersion/cv-koi/assets/111662813/c215a582-1120-4ce3-9d28-2a17e73484d3)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/82bb5752-ee29-4a80-9171-0b8be58ebfa1)
 
 
 
