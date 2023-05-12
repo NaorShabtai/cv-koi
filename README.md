@@ -147,45 +147,46 @@ CoreVersion discord link: [https://discord.gg/VmPWhNWv8k]
 
 Preview:
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/026698e1-cb3c-4b75-8cdd-571851601032)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/9076857f-09a7-4681-affa-cd3b086b9054)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/eb70f00e-d93b-4c98-bb94-6d6eff7e34fd)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/f25d748d-c09e-4e60-a38c-fc9e357c5942)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/62f27d36-433a-4796-b400-fce7a191380c)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/336d5d44-b81a-41e2-b859-942a7a124485)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/4d54afaf-015a-4db8-b3d8-2f91338191f3)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/55020fc3-8f30-436d-aa38-bb315b1f45ca)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/1f0e21b7-ee01-4c1e-889b-3a4523cb62c6)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/f4d8f7ea-a72e-4051-85a2-7ae9a1675110) 
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/c867295d-bdda-4e3e-b5ca-43e35263491f)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/dff46122-3b90-41be-98ee-7db1fcce53e7)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/9fde8477-c754-4da3-820c-ca0bc1f27886)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/084de8f7-56d0-4568-b40e-8dcb3000fd65)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/0145f939-13e9-4646-ba44-41835529e910)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/768575ff-9533-4d25-9c3b-97108c07a79c)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/ca1e0264-4cd6-4d93-bb71-f43aee6e4f6e)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/8adb0eae-b045-4fc1-99a6-bf6b2a953a4e)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/fb770ea0-4054-4639-8af6-65caba078e7b)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/52f1afb8-9f7b-4adb-8683-d15c038030fb)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/2f3e5765-abb2-45ff-9e65-1e4c5903b2a7)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/c4c045a2-b78d-4005-9670-5398f4f62361)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/fa5dc39c-3062-4e34-86dc-ea9383a235fb)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/70b3be53-a80b-4886-85d9-ae07ddfa5f34)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/68660986-e80b-4f55-9ebc-f06e4a8b2f35)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/f8a123b9-52c2-4e15-b93e-9036231eaef8)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/e973386e-1a54-44dc-b59d-9281facab47a)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/d23b3a8d-8e68-430e-b893-91c2f8c9b855)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/1b56f433-e341-43d1-b067-eb43c65d9c07)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/f7284191-5de6-4024-9d24-c31b46e41115)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/0ce3c8ac-437b-4221-a87d-5b01e19c0d40)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/bab5a97a-eed5-42d6-9153-5ff3af58ee8a)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/10211a05-7849-4163-b406-3eb61e586ee3)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/40cccea2-811a-4644-8ea1-a49bef0e253d)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/298af76f-508d-4073-b792-26569b28b2f2)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/5188aaff-d947-4b75-87a5-4f8103b61643)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/03179633-629a-400e-a9fb-20e0f381537c)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/db58dda9-cefd-42d5-9384-7ad5317fc2ce)
 
-![image](https://github.com/CoreVersion/cv-koi/assets/111662813/c215a582-1120-4ce3-9d28-2a17e73484d3)
+![image](https://github.com/CoreVersion/cv-koi/assets/111662813/67f6c40d-4850-44a5-9809-3521a092afd5)
+
 
 
 
