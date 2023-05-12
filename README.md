@@ -2,6 +2,7 @@ Hello this is naor form CoreVersion
 
 Thank you for downloading the script and supporting us 
 
+
 The items you need to the script work 100%
 
 qb-core > shared > items.lua
