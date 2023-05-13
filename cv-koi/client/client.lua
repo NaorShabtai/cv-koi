@@ -426,7 +426,7 @@ RegisterNetEvent("cv-koi:client:makesushi", function()
 	   if exports['qb-inventory']:HasItem("rice", 1) and exports['qb-inventory']:HasItem("avocado", 1) and exports['qb-inventory']:HasItem("seaweed", 1) and exports['qb-inventory']:HasItem("cuttedfish", 1)  then
 	TriggerServerEvent("cv-koi:server:getitem", "sushi", 1)
 	TriggerServerEvent("cv-koi:server:removesushiitems")
-	TriggerEvent("inventory:client:ItemBox", QBCore.Shared.Items["sushiwithavocado"], "add")
+	TriggerEvent("inventory:client:ItemBox", QBCore.Shared.Items["sushi"], "add")
 	TriggerEvent("inventory:client:ItemBox", QBCore.Shared.Items["rice"], "remove")
 	TriggerEvent("inventory:client:ItemBox", QBCore.Shared.Items["avocado"], "remove")
 	TriggerEvent("inventory:client:ItemBox", QBCore.Shared.Items["seaweed"], "remove")
