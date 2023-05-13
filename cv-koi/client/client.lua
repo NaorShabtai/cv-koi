@@ -387,13 +387,13 @@ end, function() -- Cancel
     QBCore.Functions.Notify("Cancel", "error")
 end)
 else
-	QBCore.Functions.Notify("You don't have the right things", "error")
+    QBCore.Functions.Notify("You don't have a knife", "error")
+end
+else
+    QBCore.Functions.Notify("You don't have the right things", "error")
 end
 else
     QBCore.Functions.Notify("You are not on duty", "error")
-end
-else
-	QBCore.Functions.Notify("You don't have a knife", "error")
    end
 else 
 	TriggerServerEvent("cv-koi:server:getitem", "dirtyknife", 1)
@@ -437,13 +437,13 @@ end, function() -- Cancel
     QBCore.Functions.Notify("Cancel", "error")
 end)
 else
-	QBCore.Functions.Notify("You don't have the right things", "error")
+    QBCore.Functions.Notify("You don't have a knife", "error")
+end
+else
+    QBCore.Functions.Notify("You don't have the right things", "error")
 end
 else
     QBCore.Functions.Notify("You are not on duty", "error")
-end
-else
-	QBCore.Functions.Notify("You don't have a knife", "error")
    end
 else 
 	TriggerServerEvent("cv-koi:server:getitem", "dirtyknife", 1)
